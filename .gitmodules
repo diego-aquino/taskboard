@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:diego-aquino/taskboard-web.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:diego-aquino/taskboard-mobile.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:diego-aquino/taskboard-backend.git
