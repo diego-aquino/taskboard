@@ -25,14 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-    <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#gear-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#computer-primeiros-passos">Primeiros passos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#label-documentação-da-api">Documentação da API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#newspaper_roll-licença">Licença</a>
-</p>
-
 ## :rocket: Features
 
 - Registro de contas (sign up)
@@ -61,6 +53,6 @@
 - [Node.js](https://nodejs.org/en) + [Express](https://expressjs.com)
 - [MongoDB](https://www.mongodb.com) + [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
-> Testado com [Jest](https://jestjs.io)
-
 > Deploy feito no [Heroku](https://www.heroku.com)
+
+> Testado com [Jest](https://jestjs.io)
