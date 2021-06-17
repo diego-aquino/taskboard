@@ -7,16 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/diego-aquino/taskboard-web">
-    <img alt="Web" src="https://img.shields.io/badge/-Web-1861DB">
-  </a>
-  <a href="https://github.com/diego-aquino/taskboard-mobile">
-    <img alt="Mobile" src="https://img.shields.io/badge/-Mobile-1861DB">
-  </a>
-  <a href="https://github.com/diego-aquino/taskboard-backend">
-    <img alt="Backend" src="https://img.shields.io/badge/-Backend-1861DB">
-  </a>
-  <br/>
+  <a href="https://github.com/diego-aquino/taskboard-web">🔵 Projeto Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/diego-aquino/taskboard-mobile">🔴 Projeto Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/diego-aquino/taskboard-backend">🟡 Projeto Backend</a>
+</p>
+
+<p align="center">
   <a href="https://codexjr.com.br">
     <img alt="#CodeX" src="https://img.shields.io/badge/-%23CodeX-F7F8FF">
   </a>
@@ -34,21 +30,21 @@
 
 ## :gear: Tecnologias
 
-### [:large_blue_circle: Web](https://github.com/diego-aquino/taskboard-web)
+### :large_blue_circle: Web
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) + [ReactJS](https://pt-br.reactjs.org/) + [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 
 > Deploy feito na [Vercel](https://vercel.com/)
 
-### [:red_circle: Mobile](https://github.com/diego-aquino/taskboard-mobile)
+### :red_circle: Mobile
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) + [React Native](https://reactnative.dev/) + [Expo](https://docs.expo.io/)
 - [Styled Components](https://styled-components.com/)
 
 > [Baixe o APK](https://drive.google.com/file/d/1tR7gGVYRKyNcxN5Wj7DyT2575OziuSlt/view?usp=sharing)
 
-### [:yellow_circle: Backend](https://github.com/diego-aquino/taskboard-backend)
+### :yellow_circle: Backend
 
 - [Node.js](https://nodejs.org/en) + [Express](https://expressjs.com)
 - [MongoDB](https://www.mongodb.com) + [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
